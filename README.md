@@ -9,7 +9,7 @@
 
 **Discover amazing recipes from around the world with this beautiful and interactive meal exploration app!**
 
-[🚀 Live Demo](#-live-demo) • [📱 Features](#-features) • [🛠️ Installation](#️-installation) • [📖 Usage](#-usage) • [🎨 Screenshots](#-screenshots)
+ • [📱 Features](#-features) • [🛠️ Installation](#️-installation) • [📖 Usage](#-usage) • [🎨 Screenshots](#-screenshots)
 
 </div>
 
@@ -31,18 +31,7 @@ Meal Explorer is a modern, responsive React application that allows users to dis
 
 ---
 
-## 🚀 Live Demo
 
-Experience Meal Explorer in action! The app is designed to work seamlessly across all devices.
-
-**🔗 [Try it now!](https://ajaykuraparthi.github.io/Meal-Api/)** *(Live Demo)*
-
-### 🌐 Deployment
-This app is deployed using GitHub Pages and is automatically updated when you push changes to the main branch.
-
-**Live URL**: https://ajaykuraparthi.github.io/Meal-Api/
-
----
 
 ## 📱 Features
 
