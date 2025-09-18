@@ -35,7 +35,12 @@ Meal Explorer is a modern, responsive React application that allows users to dis
 
 Experience Meal Explorer in action! The app is designed to work seamlessly across all devices.
 
-**🔗 [Try it now!](#)** *(Add your deployment URL here)*
+**🔗 [Try it now!](https://ajaykuraparthi.github.io/Meal-Api/)** *(Live Demo)*
+
+### 🌐 Deployment
+This app is deployed using GitHub Pages and is automatically updated when you push changes to the main branch.
+
+**Live URL**: https://ajaykuraparthi.github.io/Meal-Api/
 
 ---
 
@@ -91,8 +96,8 @@ Experience Meal Explorer in action! The app is designed to work seamlessly acros
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/meal-explorer.git
-   cd meal-explorer
+   git clone https://github.com/ajaykuraparthi/Meal-Api.git
+   cd Meal-Api/meal-api
    ```
 
 2. **Install dependencies**
@@ -371,9 +376,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 If you have any questions or need help:
 
-- 📧 **Email**: your-email@example.com
-- 🐛 **Issues**: [GitHub Issues](https://github.com/yourusername/meal-explorer/issues)
-- 💬 **Discussions**: [GitHub Discussions](https://github.com/yourusername/meal-explorer/discussions)
+- 🐛 **Issues**: [GitHub Issues](https://github.com/ajaykuraparthi/Meal-Api/issues)
+- 💬 **Discussions**: [GitHub Discussions](https://github.com/ajaykuraparthi/Meal-Api/discussions)
+- 🌐 **Live Demo**: [Try the app](https://ajaykuraparthi.github.io/Meal-Api/)
 
 ---
 
@@ -381,7 +386,7 @@ If you have any questions or need help:
 
 **⭐ Star this repository if you found it helpful!**
 
-Made with ❤️ by [Your Name](https://github.com/yourusername)
+Made with ❤️ by [Ajay Kuraparthi](https://github.com/ajaykuraparthi)
 
 [⬆ Back to Top](#-meal-explorer)
 
